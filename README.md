@@ -1,4 +1,4 @@
-# kidwell1-wdd-130-BYUI
+# WDD 130 Final Project
 A final project for WDD-130 at BYUI.
 Owner: Kaleb Kidwell
 
