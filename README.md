@@ -1,6 +1,4 @@
-# kidwell1-wdd-130-BYUI
-A final project for WDD-130 at BYUI.
-Owner: Kaleb Kidwell
+# WDD 130 Final Project
+Owner:Kaleb Kidwdll
 
-Semester: 2021
-This is a test!
+Semester:2021
