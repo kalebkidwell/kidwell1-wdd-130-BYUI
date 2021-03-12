@@ -16,6 +16,8 @@
     --dark-border-color: white;
 }
 
+
+
 html, body {
     margin: 0;
     padding: 0;
@@ -39,6 +41,12 @@ header {
     border-bottom: 1px solid var(--border-color);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
+}
+.banner-wrapper {
+   display:grid;
+   width:100%;
+   height:autp;
+   padding:10px;
 }
 
 header a {
