@@ -58,7 +58,7 @@ header {
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
 }
-.banner-wrapper {
+#banner-wrapper {
    display:block;
    width:100%;
    height:autp;
