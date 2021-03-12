@@ -59,10 +59,11 @@ header {
     background-color: var(--alt-background-color);
 }
 #banner-wrapper {
-   display:block;
+   display:grid;
    width:100%;
    height:autp;
    padding:10px;
+   border-color:blue;
 }
 
 header a {
