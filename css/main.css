@@ -59,7 +59,7 @@ header {
     background-color: var(--alt-background-color);
 }
 .banner-wrapper {
-   display:grid;
+   display:block;
    width:100%;
    height:autp;
    padding:10px;
