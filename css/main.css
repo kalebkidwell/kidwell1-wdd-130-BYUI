@@ -59,9 +59,11 @@ header {
     background-color: var(--alt-background-color);
 }
 #banner-wrapper {
-   display:inline-block;
+   display:grid;
    padding:10px;
    border:20px;
+   grid: row 1fr;;
+
 }
 
 header a {
