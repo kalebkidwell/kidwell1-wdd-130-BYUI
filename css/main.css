@@ -60,10 +60,9 @@ header {
 }
 #banner-wrapper {
    display:grid;
-   max-width:100%;
+   max-width:1600px;
    height:100px;
    padding:10px;
-   border-color:blue;
 }
 
 header a {
