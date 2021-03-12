@@ -60,7 +60,7 @@ header {
 }
 #banner-wrapper {
    display:grid;
-   max-width:1600px;
+   max-width:100%;
    height:100px;
    padding:10px;
 }
