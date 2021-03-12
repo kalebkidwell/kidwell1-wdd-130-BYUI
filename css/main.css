@@ -3,10 +3,10 @@
     --spacing: 15px;
     --font-size: 1.15rem;
     /* Normal Colors */
-    --background-color: white;
-    --alt-background-color: gainsboro;
+    --background-color: rgb(40, 153, 40);
+    --alt-background-color: rgb(228, 34, 34);
     --font-color: black;
-    --alt-font-color: darkslategray;
+    --alt-font-color: rgb(6, 231, 231);
     --border-color: black;
     /* Dark Mode Colors */
     --dark-background-color: black;
@@ -15,12 +15,28 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;
 }
+.our-goal{
+display:grid;
+background-color: aqua;
+border:20px;
+padding:10px;
+}
+.community{
+display:grid;
+border:20px;
+padding:10px;
+}
+.join-us{
+display:grid;
+border:20px;
+padding:10px;
+}
 
 
 
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 10px;
     width: 100%;
     height: 100%;
     text-rendering: optimizeLegibility;
