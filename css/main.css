@@ -62,7 +62,7 @@ header {
    display:grid;
    padding:10px;
    border:20px;
-   grid: row 1fr;;
+   background-position:center;
 
 }
 
