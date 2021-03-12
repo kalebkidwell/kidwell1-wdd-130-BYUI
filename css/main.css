@@ -61,7 +61,7 @@ header {
 #banner-wrapper {
    display:grid;
    max-width:100%;
-   height:autp;
+   height:auto;
    padding:10px;
    border-color:blue;
 }
