@@ -15,10 +15,9 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;
 }
-div .our-goal {
-    background-color: chocolate;
+section .our-goal {
+    background-color:coral;
 }
-
 html, body {
     margin: 20px;
     padding: 10px;
