@@ -17,19 +17,16 @@
     
 }
 .parent {
-    display:flex;
-    flex:2;
-    flex-flow: row wrap;
+    display:grid;
+   
 }
 .child-one {
-    display:flex;
-    flex:2;
-    flex-flow: row wrap;
+    display:grid;
+    
 }
 .child-two {
-    display:flex;
-    flex:2;
-    flex-flow: row wrap;
+    display:grid;
+    grid-row:;
 }
 html, body {
     margin: 20px;
@@ -40,8 +37,8 @@ html, body {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
+    display:grid;
+    grid:row;
     font-size: 62.5%;
 }
 
@@ -70,7 +67,7 @@ header a {
 }
 
 header nav {
-    display: flex;
+    display: grid;
     align-items: center;
     margin-left: auto;
 }
