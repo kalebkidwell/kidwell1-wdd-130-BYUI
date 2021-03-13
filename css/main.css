@@ -15,34 +15,6 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;
 }
-.our-goal{
-display:grid;
-background-color: aqua;
-border:20px;
-padding:10px;
-border-color: chartreuse;
-position:align-right;
-}
-.community{
-display:grid;
-border:20px;
-padding:10px;
-border-color: chartreuse;
-position: center;
-}
-.join-us{
-display:grid;
-border:20px;
-padding:10px;
-border-color: chartreuse;
-background-color: chocolate;
-}
-
-h2 {
-    align-content: center;
-}
-
-
 
 html, body {
     margin: 20px;
