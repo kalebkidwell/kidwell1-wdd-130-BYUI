@@ -17,7 +17,7 @@
 }
 
 .img {
-    align-items:rigt;
+    float: right 300px;
 }
 
 html, body {
