@@ -38,6 +38,10 @@ border-color: chartreuse;
 background-color: chocolate;
 }
 
+h2 {
+    align-content: center;
+}
+
 
 
 html, body {
