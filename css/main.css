@@ -15,8 +15,14 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;
 }
-section .our-goal {
-    background-color:coral;
+.parent {
+    flex:2;
+}
+.child-one {
+    flex:2;
+}
+.child-two {
+    flex:2;
 }
 html, body {
     margin: 20px;
