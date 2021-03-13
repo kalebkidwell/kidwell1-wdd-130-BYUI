@@ -20,16 +20,22 @@ display:grid;
 background-color: aqua;
 border:20px;
 padding:10px;
+border-color: chartreuse;
+position:align-right;
 }
 .community{
 display:grid;
 border:20px;
 padding:10px;
+border-color: chartreuse;
+position: center;
 }
 .join-us{
 display:grid;
 border:20px;
 padding:10px;
+border-color: chartreuse;
+position: align-left;
 }
 
 
