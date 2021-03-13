@@ -59,10 +59,11 @@ header {
     background-color: var(--alt-background-color);
 }
 #banner-wrapper {
-   display:grid;
-   padding:10px;
-   border:20px;
-   background-position:center;
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 
 }
 
