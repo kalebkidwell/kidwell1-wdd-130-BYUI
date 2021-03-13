@@ -59,7 +59,7 @@ header {
     background-color: var(--alt-background-color);
 }
 .pic {
-    height: 50px;
+    height: 200px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
