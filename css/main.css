@@ -17,13 +17,19 @@
     
 }
 .parent {
+    display:flex;
     flex:2;
+    flex-flow: row wrap;
 }
 .child-one {
+    display:flex;
     flex:2;
+    flex-flow: row wrap;
 }
 .child-two {
+    display:flex;
     flex:2;
+    flex-flow: row wrap;
 }
 html, body {
     margin: 20px;
