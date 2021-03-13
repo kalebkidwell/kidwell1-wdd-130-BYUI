@@ -16,6 +16,10 @@
     --dark-border-color: white;
 }
 
+.img {
+    align-items:right;
+}
+
 html, body {
     margin: 20px;
     padding: 10px;
