@@ -28,6 +28,12 @@
     display:grid;
     grid-row:;
 }
+
+p {
+text-align:center;
+grid-column: auto;
+
+}
 html, body {
     margin: 20px;
     padding: 10px;
