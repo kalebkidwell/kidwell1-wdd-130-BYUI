@@ -15,9 +15,8 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;
 }
-
-.img {
-    float: right 300px;
+.our-goal {
+    background-color: chocolate;
 }
 
 html, body {
