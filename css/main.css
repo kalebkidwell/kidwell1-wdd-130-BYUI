@@ -44,16 +44,29 @@
     display:flex;
     
 }
+
+.title2 {
+    display:inline-flex;
+    flex:3;
+    flex-direction:right;
+}    
+.img2 {
+    display:flex;
+    flex-direction:left;}
+
 .child-two {
     display:flex;
     grid-row:;
 }
 
-p {
-display:flex;    
-text-align:center;
-grid-column: auto;
-grid-row:auto;
+.title3 {
+    display:inline-flex;
+    flex:3;
+    flex-direction:right;
+}    
+.img3 {
+    display:flex;
+    flex-direction:left;
 
 }
 html, body {
