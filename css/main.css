@@ -85,7 +85,7 @@ html, body {
 }
 
 body {
-    display:flex;
+    display:grid;
     grid:row;
     font-size: 62.5%;
 }
