@@ -17,19 +17,21 @@
     
 }
 .parent {
-    display:grid;
+    display:flex;
+    justify-content:normal;
    
 }
 .child-one {
-    display:grid;
+    display:flex;
     
 }
 .child-two {
-    display:grid;
+    display:flex;
     grid-row:;
 }
 
 p {
+display:flex;    
 text-align:center;
 grid-column: auto;
 grid-row:auto;
