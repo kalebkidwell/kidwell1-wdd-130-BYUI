@@ -17,8 +17,12 @@
     
 }
 .parent {
-    display:flex;
-    justify-content:normal;
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
    
 }
 .child-one {
