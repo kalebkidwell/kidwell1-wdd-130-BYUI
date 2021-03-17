@@ -15,6 +15,12 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;}
 
+*,
+*:before,
+*:after{
+    box-sizing:inherit;
+}    
+
 .title1 {
     display:inline-flex;
     flex:3;
