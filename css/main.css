@@ -15,6 +15,13 @@
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;}
 
+    .headerus {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-template-rows: 1fr;
+        background-color:red;
+      }
+
 *,
 *:before,
 *:after{
