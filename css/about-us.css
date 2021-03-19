@@ -20,11 +20,12 @@
       .nav ul {
           display: grid;
           grid-template-columns: 1fr 1fr;
-          background-color: royalblue;
+          background-color: rgb(166, 184, 64);
       }
 
       .header {
         display: grid;
         grid-template-columns: 1fr auto;
         grid-template-rows: 1fr;
+        background-color:red;
       }
