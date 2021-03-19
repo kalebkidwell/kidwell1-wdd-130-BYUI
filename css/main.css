@@ -21,7 +21,12 @@
         grid-template-rows: 1fr;
         background-color:rgb(34, 94, 129);
       }
-
+.blockquotes {
+      display: grid;
+      grid-template-rows: 1fr;
+      grid-template-columns: auto auto auto;
+      background-color:red;
+}
 *,
 *:before,
 *:after{
