@@ -14,55 +14,17 @@
     --dark-font-color: white;
     --dark-alt-font-color: gainsboro;
     --dark-border-color: white;}
-    .blockquotes {
-        display: grid;
-        grid-template-rows: 1fr;
-        grid-template-columns: auto auto auto;
-        background-color:lightblue;
-      }
-      
-      .pic {
-      display:grid;
-        float:left 50px;
-        max-width:1460px;
-      
-      }
-      
-       .body {
-        margin:20px;
-        padding:10px;
-        grid-template-rows:1fr 1fr 1fr;
-        grid-template-columns:1fr auto;
-        font-size:30;
-      }
-      
-      .nav ul {
-        
-       display: grid;
-          grid-template-columns: 1fr 1fr;
-          background-color: royalblue;
-      }
-      
-      header nav ul {
-        margin:;
-        padding:;
-        list-style-type:none;
-        background-color:orange;
-        text-align:right;
-      }
-        
-        .main-nav li {
-        display: inline-block;
-        font-size: px;
-        padding: 20px;
-        font-size:20px; 
-        inline-text:10px;
-        text-align:center;
-        align-content:center;
+  
           
-          }
+          
       .nav ul {
           display: grid;
           grid-template-columns: 1fr 1fr;
           background-color: royalblue;
+      }
+
+      .header {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        grid-template-rows: 1fr;
       }
