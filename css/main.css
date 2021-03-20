@@ -38,7 +38,7 @@
     display:grid;
    text-align: right;
    position: relative;
-   right: 200px;
+   left: 500px;
 }    
 .img1 {
     display:flex;
