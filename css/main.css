@@ -25,13 +25,8 @@
       display: grid;
       grid-template-rows: 1fr;
       grid-template-columns: auto auto auto;
-      background-color:red;
+      background-color:rgb(70, 116, 177);
 }
-
-section {
-    display:grid;
-    grid-template-rows:repeat(3, 1fr) ;
-    grid-template-columns:repeat(3, 1fr);
 }
 *,
 *:before,
@@ -78,7 +73,7 @@ html, body {
 
 body {
     display:grid;
-    font-size: 62.5%;
+    font-size: 15px;
 }
 
 header {
