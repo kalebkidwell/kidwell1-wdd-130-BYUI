@@ -28,7 +28,4 @@
         grid-template-columns: 1fr auto;
         grid-template-rows: 1fr;
         background-color:rgb(68, 97, 141);
-      }
-      div h3 p {
-          font-size: 1000px;
-      }
+    }
