@@ -39,6 +39,7 @@
    text-align: right;
    position: relative;
    left: 700px;
+   top: 30px;
 }    
 .img1 {
     display:flex;
@@ -49,7 +50,7 @@
 }
 text {
     position: relative;
-    bottom: 20px;
+    margin-top: 20px;
 }
 
 
