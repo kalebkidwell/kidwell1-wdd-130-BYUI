@@ -27,5 +27,5 @@
         display: grid;
         grid-template-columns: 1fr auto;
         grid-template-rows: 1fr;
-        background-color:red;
+        background-color:rgb(68, 97, 141);
       }
