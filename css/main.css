@@ -35,9 +35,8 @@
 }    
 
 .title1 {
-    display:inline-flex;
-    flex:3;
-    flex-direction:right;
+    display:grid;
+   text-align: right;
 }    
 .img1 {
     display:flex;
