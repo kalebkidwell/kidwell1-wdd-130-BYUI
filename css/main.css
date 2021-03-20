@@ -38,7 +38,7 @@
     display:grid;
    text-align: right;
    position: relative;
-   left: 500px;
+   left: 700px;
 }    
 .img1 {
     display:flex;
@@ -46,6 +46,10 @@
     width:40px;
     height:50px;
 
+}
+text {
+    position: relative;
+    bottom: 20px;
 }
 
 
