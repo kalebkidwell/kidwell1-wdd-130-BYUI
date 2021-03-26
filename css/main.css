@@ -34,11 +34,14 @@
     box-sizing:inherit;
 }
 .img1 {
+    grid-column:1/2;
+    grid-row:1/2 ;
 
 }
 
 .content1 {
-    
+    grid-column:2/4;
+    grid-row:1/2;
 }
 
 
