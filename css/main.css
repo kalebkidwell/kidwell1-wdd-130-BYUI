@@ -38,6 +38,14 @@
     grid-row:1/2 ;
 
 }
+.img {
+
+}
+.wireframe {
+    display:grid;
+    grid-template-columns:;
+    grid-template-rows:;
+}
 
 .content1 {
     grid-column:2/4;
