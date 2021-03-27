@@ -7,7 +7,7 @@
     --alt-background-color: rgb(51, 158, 69);
     --font-color: black;
     --alt-font-color: rgb(0, 0, 0);
-    --border-color: rgb(51, 161, 79);
+    --border-color: rgb(128, 141, 131);
     /* Dark Mode Colors */
     --dark-background-color: black;
     --dark-alt-background-color: darkslategray;
@@ -25,7 +25,7 @@
       display: grid;
       grid-template-rows: 1fr;
       grid-template-columns: auto auto auto;
-      background-color:rgb(77, 168, 77);
+      background-color:rgb(97, 216, 97);
 }
 
 *,
