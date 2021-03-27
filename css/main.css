@@ -4,10 +4,10 @@
     --font-size: 1.15rem;
     /* Normal Colors */
     --background-color: rgba(189, 194, 189, 0.863);
-    --alt-background-color: rgb(127, 130, 139);
+    --alt-background-color: rgb(51, 158, 69);
     --font-color: black;
-    --alt-font-color: rgb(51, 175, 78);
-    --border-color: black;
+    --alt-font-color: rgb(0, 0, 0);
+    --border-color: rgb(51, 161, 79);
     /* Dark Mode Colors */
     --dark-background-color: black;
     --dark-alt-background-color: darkslategray;
@@ -43,8 +43,8 @@
 }
 .wireframe {
     display:grid;
-    grid-template-columns:;
-    grid-template-rows:;
+    grid-template-columns:1fr, 200px, 1fr;
+    grid-template-rows:auto auto;
 }
 
 .content1 {
