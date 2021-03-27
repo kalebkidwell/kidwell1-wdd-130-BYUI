@@ -3,10 +3,10 @@
     --spacing: 15px;
     --font-size: 1.15rem;
     /* Normal Colors */
-    --background-color: rgba(45, 172, 45, 0.863);
+    --background-color: rgba(189, 194, 189, 0.863);
     --alt-background-color: rgb(127, 130, 139);
     --font-color: black;
-    --alt-font-color: rgb(102, 107, 109);
+    --alt-font-color: rgb(51, 175, 78);
     --border-color: black;
     /* Dark Mode Colors */
     --dark-background-color: black;
@@ -19,7 +19,7 @@
         display: grid;
         grid-template-columns: 1fr auto;
         grid-template-rows: 1fr;
-        background-color:rgb(75, 143, 61);
+        background-color:rgb(157, 168, 154);
       }
 .blockquotes {
       display: grid;
