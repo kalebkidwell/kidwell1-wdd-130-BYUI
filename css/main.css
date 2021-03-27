@@ -27,6 +27,16 @@
       grid-template-columns: auto auto auto;
       background-color:rgb(97, 216, 97);
 }
+.footercontact {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto 1fr auto;
+    font-size: var(--font-size);
+    border-top: 1px solid var(--border-color);
+    padding: var(--spacing);
+    color: var(--alt-font-color);
+    background-color: var(--alt-background-color);
+}
 
 *,
 *:before,
@@ -39,7 +49,7 @@
 
 }
 .img {
-
+    
 }
 .wireframe {
     display:grid;
