@@ -185,7 +185,7 @@ footer {
     padding: var(--spacing);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    padding-top:50px;
+    padding-bottom:50px;
 }
 
 footer a {
