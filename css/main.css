@@ -120,8 +120,8 @@
 
 .homegrid {
     display:grid;
-    grid-template-columns:300px, 1fr, 300px ;
-    grid-template-rows:9em, 9em, 9em ;
+    grid-template-columns:300px, 1000px, 300px ;
+    grid-template-rows:auto, auto ,auto;
 }
 
 html, body {
