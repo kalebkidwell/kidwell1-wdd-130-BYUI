@@ -134,7 +134,7 @@ header {
     border-bottom: 1px solid var(--border-color);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    
+
 }
 .pic {
     height: 200px;
@@ -185,7 +185,7 @@ footer {
     padding: var(--spacing);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    gap:50px;
+    padding-top:50px;
 }
 
 footer a {
