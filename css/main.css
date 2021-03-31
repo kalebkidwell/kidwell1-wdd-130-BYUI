@@ -41,7 +41,7 @@
     display:grid;
     grid-template-columns:600px, 20px, 600px;
     grid-template-rows:1fr, 20px, 1fr;
-    gap:75px;
+    gap:20px;
     column-gap:75px;
 }
 .imgfrm0 {
