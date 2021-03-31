@@ -61,14 +61,14 @@
 .imgfrm2 {
     grid-column:1/2;
     grid-row:3/4;
-    width:400px;
+    width:550px;
     padding:50px;
     padding-left:30px;
 }
 .imgfrm3 {
     grid-column:3/4;
     grid-row:3/4;
-    width:400px;
+    width:550px;
     padding:50px;
     padding-right:30px;
 }
