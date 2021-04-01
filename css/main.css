@@ -123,8 +123,8 @@ text-align:center;
 
 .homegrid {
     display:grid;
-    grid-template-columns:50px, 1400px, 50px;
-    grid-template-rows:150px ,150px ,150px;
+    grid-template-columns:1fr 5fr 1fr;
+    grid-template-rows:150px 150px 150px;
 }
 
 html, body {
