@@ -111,6 +111,7 @@
     /* grid-row:3/4; */
     text-align:left;
     grid-row:1/2;
+    align-content:center;
 }
 
 .title1 {
