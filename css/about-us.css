@@ -33,5 +33,6 @@
          margin: 50px;
     }
     .footercontact {
- 
+ display:inline-grid;
+ background-color: salmon;
     }

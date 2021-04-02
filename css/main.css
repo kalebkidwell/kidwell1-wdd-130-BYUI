@@ -36,7 +36,6 @@
     padding: var(--spacing);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    background-color:red;
 }
 .wireframe {
     display:grid;
@@ -220,7 +219,6 @@ footer {
     padding: var(--spacing);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    background-color: red;
 }
 
 footer a {
