@@ -30,16 +30,8 @@
  .stylegrid {
     display:block; 
     grid-template-columns:200px 200px 200px 200px ;
-    grid-template-rows:100% 3 ;
- }   
- .titlez {
-     grid-row:1/2;
+    grid-template-rows:5fr 5fr 5fr ;
  }
- .title12 {
-     grid-row:2/3;
- 
- }
-
 .blockquotes {
       display: grid;
       grid-template-rows: 1fr;
