@@ -29,7 +29,7 @@
     }
  .stylegrid {
     display:flex;
-    flex:7;
+    flex-basis:200px 200px 200px 200px;
  }   
  .titlez {
     
