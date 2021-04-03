@@ -21,6 +21,16 @@
         grid-template-rows: 1fr;
         background-color:rgb(157, 168, 154);
       }
+      .form {
+        border: 1px solid rgb(88, 84, 84);
+        text-align:center;
+        background-color: rgb(76, 206, 82);
+        border-radius: 101px;
+    }
+    h1, p {
+        text-align: center;
+        font-size: 15px;
+    }
 .blockquotes {
       display: grid;
       grid-template-rows: 1fr;
