@@ -29,9 +29,17 @@
     }
  .stylegrid {
      display:grid;
-     grid-template-columns:2rf 2fr 2fr 2fr ;
-     grid-template-rows:8fr 8fr;
+     grid-template-columns:200px 200px 200px 200px ;
+     grid-template-rows:200px 200px 200px;
  }   
+ .titlez {
+     grid-column:1/1 1/2 1/3 1/4;
+     grid-row:;
+ }
+ .title12 {
+     grid-column:;
+     grid-row:;
+ }
 
 .blockquotes {
       display: grid;
