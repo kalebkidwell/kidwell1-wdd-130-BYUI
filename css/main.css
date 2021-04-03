@@ -27,10 +27,7 @@
         background-color: rgb(76, 206, 82);
         border-radius: 101px;
     }
-    h1, p {
-        text-align: center;
-        font-size: 15px;
-    }
+
 .blockquotes {
       display: grid;
       grid-template-rows: 1fr;
