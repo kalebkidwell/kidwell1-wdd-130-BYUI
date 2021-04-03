@@ -27,6 +27,11 @@
         background-color: rgb(76, 206, 82);
         border-radius: 101px;
     }
+ .stylegrid {
+     display:grid;
+     grid-template-columns:2rf 2fr 2fr 2fr ;
+     grid-template-rows:8fr 8fr;
+ }   
 
 .blockquotes {
       display: grid;
