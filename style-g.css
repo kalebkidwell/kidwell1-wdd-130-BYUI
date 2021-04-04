@@ -21,6 +21,48 @@ footer {
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
 }
+footer #legal {
+    grid-row: 1;
+    grid-column: 1;
+    display: flex;
+    align-items: center;
+}
+
+footer nav {
+    grid-row: 1;
+    grid-column: 2;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+footer nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+footer nav ul li {
+    display: inline-block;
+    padding: 7.5px;
+    margin-right: 7.5px;
+}
+header nav ul li {
+    display: inline-block;
+    padding: 7.5px;
+    margin-right: 7.5px;
+}
+header nav {
+    display: grid;
+    align-items: center;
+    margin-left: auto;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
 
 html, body {
     margin: 0;
