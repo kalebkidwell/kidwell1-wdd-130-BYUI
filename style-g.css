@@ -20,7 +20,7 @@ footer {
     padding: var(--spacing);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
-    font-size:14px;
+    font-size:18px;
 }
 footer #legal {
     grid-row: 1;
@@ -57,6 +57,7 @@ header nav {
     display: grid;
     align-items: center;
     margin-left: auto;
+    font-size:18px ;
 }
 
 header nav ul {
