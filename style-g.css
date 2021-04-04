@@ -11,6 +11,16 @@
     --dark-primary-color: rgb(92, 88, 88);
     --dark-alt-primary-color: rgb(121, 117, 117);
 }
+footer {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto 1fr auto;
+    font-size: var(--font-size);
+    border-top: 1px solid var(--border-color);
+    padding: var(--spacing);
+    color: var(--alt-font-color);
+    background-color: var(--alt-background-color);
+}
 
 html, body {
     margin: 0;
