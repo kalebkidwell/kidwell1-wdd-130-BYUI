@@ -58,6 +58,7 @@ header nav {
     align-items: center;
     margin-left: auto;
     font-size:18px ;
+    display:inline block;
 }
 
 header nav ul {
